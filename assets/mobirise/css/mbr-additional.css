@@ -546,7 +546,7 @@ blockquote {
 }
 @media (max-width: 767px) {
   .btn {
-    font-size: .75rem !important;
+    font-size: .8rem !important;
   }
   .btn .mbr-iconfont {
     font-size: 1rem !important;
@@ -649,8 +649,8 @@ section.lazy-placeholder:after {
     width: 40% !important;
   }
   .cid-s1lWEgIy2O .btn {
-    padding-top: .7rem;
-    padding-bottom: .7rem;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
   }
 }
 .cid-rVIrnvDp9H {
